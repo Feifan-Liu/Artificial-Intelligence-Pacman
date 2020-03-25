@@ -1,6 +1,7 @@
 # Artificial-Intelligence-Pacman
-An AI Pacman solver
-You could experience with the commands in commands.txt under each project. You could use Putty with Swing to enable graphic.
+An AI Pacman solver.
+
+You could experience with the commands in commands.txt under each project. You could use Putty with Xming to enable graphic.
 # Project 1
 Designed pacman agent that find paths through his maze world, both to reach a particular location and to collect food efficiently. Implemented general search algorithms(BFS,DFS,UCS,A*) and applied them to Pacman scenarios.
 
